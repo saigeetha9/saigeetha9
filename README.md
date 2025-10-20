@@ -1,80 +1,65 @@
- # Hi there, I'm [saigeetha] 👋
-    2
-    3 <a href="https://github.com/saigeetha9">
-    4   <img align="center" src=
-      "https://github-readme-stats.vercel.app/api?username=saigeetha9&show_icons=true&theme=dracula&include_all_com
-      mits=true&count_private=true"/>
-    5 </a>
-    6 <a href="https://github.com/saigeetha9">
-    7  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saigeetha9&theme=dracula" />
-    8 </a>
-    9
-   10 ---
-   11
-   12 ### 👨‍💻 About Me
-   13
-   14 I'm a Java developer passionate about building robust and efficient applications. I enjoy working on backend
-      systems and creating solutions to real-world problems.
-   15
-   16 - 🔭 I’m currently working on a **Library Management System** and an **Employee Management System**.
-   17 - 🌱 I’m currently learning **Spring Boot** and **Microservices**.
-   18 - 💬 Ask me about **Java, Core Java concepts, and backend development**.
-   19 - 📫 How to reach me: **[Your Email or LinkedIn Profile URL]**
-   20
-   21 ---
-   22
-   23 ### 🛠️ My Skills
-   24
-   25 #### Languages
-   26 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-   27 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   28 ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=sql&logoColor=white)
-   29
-   30 #### Frameworks & Libraries (What I'm Learning)
-   31 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-   32 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-   33 ![Hibernate](https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white
-      )
-   34
-   35 #### Databases
-   36 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-   37
-   38 #### Tools & Platforms
-   39 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-   40 ![Maven](
-      https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-   41
-   42 ---
-   43
-   44 ### 🚀 My Projects
-   45
-   46 - **Library-Management-System**: A comprehensive system to manage books, borrowers, and library operations.
-   47 - **Employee-Management-System-EMS-**: An application to handle employee records, payroll, and other HR
-      functions.
-   48 - **calculator**: A simple calculator application.
-   49 - **Frontend**: A project focusing on front-end web development using HTML/CSS.
-   50
-   51 ---
-   52
-   53 ### 📊 My GitHub Stats
-   54
-   55 <p align="center">
-   56   <img src=
-      "https://github-readme-stats.vercel.app/api/top-langs/?username=saigeetha9&layout=compact&theme=dracula" alt=
-      "Top Langs" />
-   57 </p>
-   58
-   59 ---
-   60
-   61 ### 🤝 Connect with Me
-   62
-   63 <p align="center">
-   64   <a href="https://www.linkedin.com/in/your-linkedin-profile/">
-   65     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn">
-   66   </a>
-   67   <a href="mailto:your-email@example.com">
-   68     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email">
-   69   </a>
-   70 </p>
+<h1 align="center">Hi there, I'm <a href="https://github.com/saigeetha9">Saigeetha 👋</a></h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saigeetha9&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 👩‍💻 About Me
+I'm a **Java Developer** passionate about building robust and efficient applications.  
+I love working on **Spring Boot**, **Microservices**, and backend systems to solve real-world problems.
+
+- 🔭 Currently working on: **Library Management System** & **Employee Management System**
+- 🌱 Learning: **Spring Boot**, **Microservices**, and **Docker**
+- 💬 Ask me about: **Java**, **Core Java Concepts**, **Backend Development**
+- 📫 Reach me at: [LinkedIn Profile](#) or [Email Me](#)
+
+---
+
+### 🧰 Tech Stack
+
+#### 🖥️ Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ⚙️ Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🧩 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+### 🚀 Projects
+- 📚 **Library Management System** — A comprehensive system to manage books, borrowers, and operations.  
+- 👩‍💼 **Employee Management System (EMS)** — Manage employee records, payroll, and HR functions.  
+- 🧮 **Calculator App** — A simple calculator project built with Java.  
+- 🌐 **Frontend Project** — Front-end development using HTML, CSS, and JS.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saigeetha9&theme=radical" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigeetha9&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ From [saigeetha9](https://github.com/saigeetha9)
