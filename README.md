@@ -1,65 +1,95 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/saigeetha9">Saigeetha 👋</a></h1>
+<!-- Profile Header -->
+<h1 align="center">✨ Hey there, I'm <a href="https://github.com/saigeetha9">Saigeetha Kundu</a> 👋</h1>
+<h3 align="center">💻 Java Developer | Backend Engineer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saigeetha9&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72C91&center=true&vCenter=true&width=600&lines=Passionate+about+Java+%26+Spring+Boot;Exploring+Microservices+and+Cloud;Turning+Ideas+Into+Working+Code+💡" alt="Typing Animation" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-I'm a **Java Developer** passionate about building robust and efficient applications.  
-I love working on **Spring Boot**, **Microservices**, and backend systems to solve real-world problems.
-
-- 🔭 Currently working on: **Library Management System** & **Employee Management System**
-- 🌱 Learning: **Spring Boot**, **Microservices**, and **Docker**
-- 💬 Ask me about: **Java**, **Core Java Concepts**, **Backend Development**
-- 📫 Reach me at: [LinkedIn Profile](#) or [Email Me](#)
-
----
-
-### 🧰 Tech Stack
-
-#### 🖥️ Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### ⚙️ Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🧩 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
----
-
-### 🚀 Projects
-- 📚 **Library Management System** — A comprehensive system to manage books, borrowers, and operations.  
-- 👩‍💼 **Employee Management System (EMS)** — Manage employee records, payroll, and HR functions.  
-- 🧮 **Calculator App** — A simple calculator project built with Java.  
-- 🌐 **Frontend Project** — Front-end development using HTML, CSS, and JS.
-
----
-
-### 📊 GitHub Stats
+<!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saigeetha9&theme=radical" alt="GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigeetha9&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saigeetha9&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🪄 About Me
+I'm a **Java Developer** with a strong passion for designing efficient backend systems and learning modern technologies.  
+I enjoy creating solutions that solve real-world problems and enhance user experience.
+
+- 🔭 **Currently Working On:** Library Management System & Employee Management System  
+- 🌱 **Learning:** Spring Boot · Microservices · Docker · REST APIs  
+- 💬 **Ask Me About:** Java, Spring Boot, Hibernate, SQL, and Backend Architecture  
+- 📫 **Reach Me:** [kundusaigeetha@gmail.com](mailto:kundusaigeetha@gmail.com)  
+- 🌍 **Connect:** [LinkedIn](https://www.linkedin.com/in/kundu-saigeetha-667b5a330)
+
+---
+
+### ⚙️ Tech Stack
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,html,css,js,bootstrap,git,github,mysql,docker,postman,intellij" />
 </p>
 
 ---
 
-⭐️ From [saigeetha9](https://github.com/saigeetha9)
+### 🚀 Featured Projects
+
+#### 📚 [Library Management System](https://github.com/saigeetha9/Library-Management-System)
+> A full-stack system to manage books, borrowers, and library operations efficiently.
+
+#### 👩‍💼 [Employee Management System (EMS)](https://github.com/saigeetha9/Employee-Management-System)
+> A web-based app to manage employee records, payroll, and HR activities.
+
+#### 🧮 [Calculator App](https://github.com/saigeetha9/calculator)
+> A simple Java calculator demonstrating basic arithmetic logic and clean UI.
+
+#### 🌐 Frontend Mini Project
+> Front-end exploration using HTML, CSS, and JavaScript for responsive UI practice.
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saigeetha9&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saigeetha9&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigeetha9&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🧠 Fun Facts
+- 🌸 Love learning new frameworks & improving backend performance  
+- ☕ A day without Java is like a day without caffeine  
+- 💡 Motto: *“Write code that speaks, not screams.”*
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kundu-saigeetha-667b5a330">
+    <img src="https://img.shields.io/badge/-Saigeetha%20Kundu-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kundusaigeetha@gmail.com">
+    <img src="https://img.shields.io/badge/-kundusaigeetha%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/saigeetha9">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saigeetha9&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+<h4 align="center">💖 Thanks for visiting my profile! Keep coding and stay awesome! 🚀</h4>
+
+
