@@ -1,39 +1,29 @@
-name: Update GitHub Projects
+import requests
+import os
 
-permissions:
-  contents: write
+USERNAME = "saigeetha9"
+TOKEN = os.getenv("GH_TOKEN")  # Stored securely in GitHub Secrets
 
-on:
-  schedule:
-    - cron: '0 0 * * *'  # daily
-  workflow_dispatch:      # manual run
+headers = {"Authorization": f"token {TOKEN}"}
+url = "https://api.github.com/user/repos?sort=updated&per_page=100"
+repos = requests.get(url, headers=headers).json()
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+projects_md = "### íº€ Featured Projects\n\n"
+for repo in repos:
+    if repo['description']:
+        projects_md += f"#### [{repo['name']}]({repo['html_url']})\n> {repo['description']}\n\n"
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+with open("README.md", "r", encoding="utf-8") as file:
+    readme = file.read()
 
-      - name: Install dependencies
-        run: pip install requests
+start_tag = "<!-- AUTO-GENERATED:START (projects) -->"
+end_tag = "<!-- AUTO-GENERATED:END -->"
 
-      - name: Update README with latest projects
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # used in Python script for private repos
-        run: python update_projects.py
+start = readme.find(start_tag) + len(start_tag)
+end = readme.find(end_tag)
 
-      - name: Commit & push changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add README.md
-          git commit -m "Update projects automatically" || echo "No changes"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+new_readme = readme[:start] + "\n" + projects_md + readme[end:]
 
-
+with open("README.md", "w", encoding="utf-8") as file:
+    file.write(new_readme)
 
