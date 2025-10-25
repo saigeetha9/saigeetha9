@@ -1,0 +1,33 @@
+name: Update GitHub Projects
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight
+  workflow_dispatch:      # Optional manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update README with latest projects
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Your PAT
+        run: python update_projects.py
+
+      - name: Commit & push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update projects automatically" || echo "No changes"
+          git push
