@@ -35,18 +35,9 @@ I enjoy creating solutions that solve real-world problems and enhance user exper
 ---
 
 ### 🚀 Featured Projects
-
-#### 📚 [Library Management System](https://github.com/saigeetha9/Library-Management-System)
-> A full-stack system to manage books, borrowers, and library operations efficiently.
-
-#### 👩‍💼 [Employee Management System (EMS)](https://github.com/saigeetha9/Employee-Management-System)
-> A web-based app to manage employee records, payroll, and HR activities.
-
-#### 🧮 [Calculator App](https://github.com/saigeetha9/calculator)
-> A simple Java calculator demonstrating basic arithmetic logic and clean UI.
-
-#### 🌐 Frontend Mini Project
-> Front-end exploration using HTML, CSS, and JavaScript for responsive UI practice.
+<!-- AUTO-GENERATED:START (projects) -->
+<!-- Projects will be automatically updated here -->
+<!-- AUTO-GENERATED:END -->
 
 ---
 
@@ -91,5 +82,3 @@ I enjoy creating solutions that solve real-world problems and enhance user exper
 ---
 
 <h4 align="center">💖 Thanks for visiting my profile! Keep coding and stay awesome! 🚀</h4>
-
-
