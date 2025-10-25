@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import requests
 import os
 
@@ -8,7 +9,7 @@ headers = {"Authorization": f"token {TOKEN}"}
 url = "https://api.github.com/user/repos?sort=updated&per_page=100"
 repos = requests.get(url, headers=headers).json()
 
-projects_md = "### íº€ Featured Projects\n\n"
+projects_md = "### ðŸš€ Featured Projects\n\n"
 for repo in repos:
     if repo['description']:
         projects_md += f"#### [{repo['name']}]({repo['html_url']})\n> {repo['description']}\n\n"
