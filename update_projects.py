@@ -1,19 +1,18 @@
 name: Update GitHub Projects
 
 permissions:
-  contents: write   # Gives permission to push changes
+  contents: write
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight
-  workflow_dispatch:      # Allows manual run
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -25,7 +24,7 @@ jobs:
 
       - name: Update README with latest projects
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Your PAT for private repos
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Used in Python script to fetch private repos
         run: python update_projects.py
 
       - name: Commit & push changes
@@ -35,4 +34,5 @@ jobs:
           git add README.md
           git commit -m "Update projects automatically" || echo "No changes"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+
 
