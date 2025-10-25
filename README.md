@@ -36,7 +36,17 @@ I enjoy creating solutions that solve real-world problems and enhance user exper
 
 ### 🚀 Featured Projects
 <!-- AUTO-GENERATED:START (projects) -->
-<!-- Projects will be automatically updated here -->
+### 🚀 Featured Projects
+
+#### [Library-Management-System](https://github.com/saigeetha9/Library-Management-System)
+> Library Management System
+
+#### [Employee-Management-System-EMS-](https://github.com/saigeetha9/Employee-Management-System-EMS-)
+> Employee Management System (EMS)
+
+#### [calculator](https://github.com/saigeetha9/calculator)
+> calculator
+
 <!-- AUTO-GENERATED:END -->
 
 ---
